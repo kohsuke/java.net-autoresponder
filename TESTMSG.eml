@@ -1,0 +1,120 @@
+X-UIDL: 20Sep200415:14:22GMT5165
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 10000000
+Return-path: <users-return-@jaxb.dev.java.net>
+Received: from conversion-daemon.bur-mail2.east.sun.com by
+ bur-mail2.east.sun.com
+ (iPlanet Messaging Server 5.2 HotFix 1.24 (built Dec 19 2003))
+ id <0I4C00C01I2Z5C@bur-mail2.east.sun.com>
+ (original mail from users-return-@jaxb.dev.java.net)
+ for ryans@bur-mail2.East.Sun.COM; Mon, 20 Sep 2004 11:14:22 -0400 (EDT)
+Received: from eastmail2bur.East.Sun.COM
+ (eastmail2bur.East.Sun.COM [129.148.13.40]) by bur-mail2.east.sun.com
+ (iPlanet Messaging Server 5.2 HotFix 1.24 (built Dec 19 2003))
+ with ESMTP id <0I4C00MWVIBY5L@bur-mail2.east.sun.com> for
+ ryans@bur-mail2.East.Sun.COM; Mon, 20 Sep 2004 11:14:22 -0400 (EDT)
+Received: from sunmail1brm.Central.Sun.COM
+ (sunmail1brm.Central.Sun.COM [129.147.62.17])	by eastmail2bur.East.Sun.COM
+ (8.12.10+Sun/8.12.10/ENSMAIL,v2.2) with ESMTP id i8KFEL86001187	for
+ <ryan.shoemaker@east.sun.com>; Mon, 20 Sep 2004 11:14:22 -0400 (EDT)
+Received: from nwkea-mail-2.sun.com (nwkea-mail-2.Sun.COM [192.18.42.14])
+	by sunmail1brm.Central.Sun.COM (8.11.7p1+Sun/8.11.7/ENSMAIL,v2.2)
+ with SMTP id i8KFEKS16320	for <ryan.shoemaker@sun.com>; Mon,
+ 20 Sep 2004 09:14:21 -0600 (MDT)
+Received: from relay21.sun.com
+ (relay21.sun.com [192.12.251.14] (may be forged))	by nwkea-mail-2.sun.com
+ (8.12.10/8.12.9) with ESMTP id i8KFEK35001223	for <ryan.shoemaker@sun.com>;
+ Mon, 20 Sep 2004 08:14:20 -0700 (PDT)
+Received: from mms21es.sun.com (mms21es.sun.com [150.143.232.14])
+ by relay21i.sun.com with ESMTP for ryan.shoemaker@sun.com; Mon,
+ 20 Sep 2004 15:14:19 +0000 (Z)
+Received: from mms22bas.mms.us.syntegra.com
+ (mms22bas.mms.us.syntegra.com [192.12.251.30]) by mms21es.sun.com with ESMTP
+ for ryan.shoemaker@sun.com; Mon, 20 Sep 2004 15:14:16 +0000 (Z)
+Received: from dev.java.net (dev.java.net [64.125.133.206])
+ by relay22.sun.com for ryan.shoemaker@sun.com; Mon,
+ 20 Sep 2004 15:14:16 +0000 (Z)
+Received: (qmail 2593 invoked by uid 5302); Mon, 20 Sep 2004 14:57:05 +0000
+Date: Mon, 20 Sep 2004 14:57:05 +0000
+From: users-reject-1095692225.2592.cofogobeifgfbpljlegi@jaxb.dev.java.net
+Subject: MODERATE for dev@javanettasks-test.dev.java.net
+Sender: users-return-@jaxb.dev.java.net
+To: Recipient list not shown: ;
+Cc: users-allow-tc.1095692225.aidcejdiadokhhplceel-ryan.shoemaker=gmail.com@jaxb.dev.java.net
+Reply-to: users-accept-1095692225.2592.cofogobeifgfbpljlegi@jaxb.dev.java.net
+Message-id: <1095692225.2592.ezmlm@jaxb.dev.java.net>
+MIME-version: 1.0
+Content-type: multipart/mixed; boundary="Boundary_(ID_8xh5dOIdbWaZDfPW/gi4Qw)"
+Mailing-List: contact users-help@jaxb.dev.java.net; run by ezmlm
+Original-recipient: rfc822;ryans@bur-mail2.East.Sun.COM
+
+
+--Boundary_(ID_8xh5dOIdbWaZDfPW/gi4Qw)
+Content-type: text/plain; charset=us-ascii
+
+The enclosed message was submitted to the users@jaxb.dev.java.net
+mailing list. If you'd like to approve it for distribution to all
+the subscribers, please e-mail:
+
+   users-accept-1095692225.2592.cofogobeifgfbpljlegi@jaxb.dev.java.net
+
+Usually, this happens when you just hit the "reply" button. You can
+check the address to make sure that it starts with
+"users-accept". If this does not work, simply copy the
+address and paste it into the "To:" field of a new message.
+
+To reject the post and cause it to be returned to the
+sender, please send a message to:
+
+   users-reject-1095692225.2592.cofogobeifgfbpljlegi@jaxb.dev.java.net
+
+Usually, it is easiest to hit the "reply-to-all" button, and then
+remove all the addresses except the one starting with
+"users-reject".
+
+You do not need to copy the post in your response to accept or 
+reject it. If you wish to send a comment to the sender of a rejected
+post, please include it between two marker lines starting with three
+percent signs ('%'):
+
+%%% Start comment
+%%% End comment
+
+Thank you for your help!
+
+--- Enclosed, please find the posted message.
+
+
+--Boundary_(ID_8xh5dOIdbWaZDfPW/gi4Qw)
+Content-type: message/rfc822
+
+Return-path: <ryan.shoemaker@gmail.com>
+Received: (qmail 2579 invoked from network); 20 Sep 2004 14:57:05 -0000
+Received: from asmx1.sfo.collab.net (64.125.133.81) by s006.sfo.collab.net with
+ SMTP; 20 Sep 2004 14:57:05 -0000
+Received: from mproxy.gmail.com (rproxy.gmail.com [64.233.170.194])
+	by asmx1.sfo.collab.net (8.12.8/8.12.8) with ESMTP id i8KEv3BB018847	for
+ <users@jaxb.dev.java.net>; Mon, 20 Sep 2004 07:57:03 -0700
+Received: by mproxy.gmail.com with SMTP id v30so1593447rnb for
+ <users@jaxb.dev.java.net>; Mon, 20 Sep 2004 07:57:01 -0700 (PDT)
+Received: by 10.38.8.54 with SMTP id 54mr40106rnh; Mon,
+ 20 Sep 2004 07:57:01 -0700 (PDT)
+Received: by 10.38.8.37 with HTTP; Mon, 20 Sep 2004 07:57:01 -0700 (PDT)
+Date: Mon, 20 Sep 2004 10:57:01 -0400
+From: Kohsuke Kawaguchi <kk@kohsuke.org>
+Subject: foo
+To: list <dev@javanettasks-test.dev.java.net>
+Reply-to: Kohsuke Kawaguchi <kk@kohsuke.org>
+Message-id: <1afc3ab0040920075740e52bb7@mail.gmail.com>
+MIME-version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Delivered-to: moderator for users@jaxb.dev.java.net
+
+foo
+-- 
+
+--Ryan
+
+--Boundary_(ID_8xh5dOIdbWaZDfPW/gi4Qw)--
+

@@ -1,0 +1,51 @@
+
+スパムを防止する為に、このメーリングリストに投稿するためには購読の
+必要があります。次の手順に従ってください。
+
+１．このメーリングリストを購読する為に、適当なメッセージを
+　　${listName}-subscribe@${projectName}.dev.java.net 宛に
+　　送ってください。
+   
+　　もしダイジェスト購読がよければ、適当なメッセージを
+    ${listName}-digest-subscribe@${projectName}.dev.java.net 宛に
+　　送ってください。
+
+２．購読の確認の為のメールが数分で届きますので、これに返事をして
+　　メーリングリストへの購読を完了してください。
+
+３．その上で、改めてメッセージを投稿してください。
+
+
+
+もし、複数のメールアドレスをお使いの場合は、この投稿に使用したメール
+アドレスが購読用に登録したメールアドレスと同じであることを確認して
+ください。この投稿が配信できなかったのはそうでなかったためかもしれ
+ません。購読用に登録したメールアドレスが分からない場合には、この
+メーリングリストから送られているメールの「Original-Recipient」ヘッダ
+を確認してください。
+
+また、参考のために以下の情報が役に立つかもしれません：
+
+・購読を取りやめるには、${listName}-unsubscribe@${projectName}.dev.java.net
+　宛にメールを送ってください。
+
+・過去ログを以下の場所で参照できます
+　https://${projectName}.dev.java.net/servlets/SummarizeList?listName=${listName}
+
+・過去ログの検索は以下の場所から行えます
+  https://${projectName}.dev.java.net/servlets/SearchList?listName=${listName}&by=date
+
+・もしjava.netにアカウントをお持ちであれば、これらの操作は全て
+　ウェブから行えます。
+　https://${projectName}.dev.java.net/servlets/ProjectMailingListList
+　アカウントは https://www.dev.java.net/servlets/Join で作ることが出来ます。
+
+・この他のメーリングリストコマンドの一覧を見るには、
+  ${listName}-help@${projectName}.dev.java.net 宛にメールを送ってください。
+
+・本リストはezmlmによって運営されています
+
+
+これらの手順を参考にしても問題が解決されない場合には、
+"owner at ${projectName} dot dev dot java dot net"宛にメールを送って
+プロジェクトの管理者と連絡を取ってください。

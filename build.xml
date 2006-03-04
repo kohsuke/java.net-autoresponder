@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<project name="autoresponder" default="jar">
+  <path id="classpath">
+    <fileset dir="${basedir}" includes="lib/*.jar"/>
+  </path>
+
+  <target name="compile">
+    <mkdir dir="build/classes"/>
+    <javac srcdir="src" destdir="build/classes" debug="on" classpathref="classpath"/>
+  </target>
+
+  <target name="jar" depends="compile">
+    <jar destfile="build/autoresponder.jar">
+      <manifest>
+        <attribute name="Main-Class" value="AutoResponder"/>
+        <attribute name="Class-Path" value="../lib/mail.jar ../lib/activation.jar"/>
+      </manifest>
+      <fileset dir="build/classes"/>
+    </jar>
+  </target>
+
+  <target name="clean">
+    <delete dir="build"/>
+  </target>
+</project>

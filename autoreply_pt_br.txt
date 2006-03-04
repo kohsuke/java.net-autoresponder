@@ -1,0 +1,40 @@
+Para evitar mensagens indesejadas (spam), esta lista de email está configurada
+para aceitar mensagens apenas de endereços inscritos. O que não é o caso de seu
+email. Por favor verifique as instruções abaixo para se inscrever na
+lista:
+
+1. Para se inscrever na lista, envie uma mensagem em branco para
+     ${listName}-list-subscribe@${projectName}.dev.java.net
+   Se desejar o modo "digest", envie uma mensagem sem contedo para:
+     ${listName}-list-digest-subscribe@${projectName}.dev.java.net
+
+2. Vocêreceberá em alguns minutos uma mensagem de solicitação para confirmar a
+participação na lista. Para confirmar, apenas responda ao email.
+
+3. Ao receber a mensagem de confirmação de inscrição na lista, poderá enviar
+mensagens, sem moderação.
+
+Caso você use múltiplos endereços de email ou efetue encaminhamento automático,
+verifique se o endereço de email usado para enviar mensagens para a lista, seja
+o email que efetuou a inscrição. Caso contrário a mensagem será moderada.
+
+Algumas informações importantes:
+
+- Para remover o seu endereço da lista, escreva uma mensagem em branco para:
+  ${listName}-list-unsubscribe@${projectName}.dev.java.net
+
+- O arquivo de mensagens da lista, encontra-se em:
+  https://${projectName}.dev.java.net/servlets/SummarizeList?listName=${listName}-list
+
+- Pesquisa nos arquivos da lista:
+https://${projectName}.dev.java.net/servlets/SearchList?listName=${listName}-list&by=date
+
+- Caso tenha uma conta no java.net, todas as operações estão disponíveis através
+de uma interface web.
+  https://${projectName}.dev.java.net/servlets/ProjectMailingListList
+
+- Informações sobre outros comandos para a lista:
+  ${listName}-list-help@${projectName}.dev.java.net
+
+Caso tenha algum outro problema ao enviar mensagens para a lista, entre em
+contato com: "owner at ${projectName} dot dev dot java dot net" 

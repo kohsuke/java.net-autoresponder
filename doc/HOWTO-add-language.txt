@@ -1,0 +1,11 @@
+Let's say you want to add "ja_JP" locale.
+
+- add autoreply_ja_jp.txt. Make sure the file is a text file encoded in
+  UTF-8, and locale portion of the file name is in lower case.
+
+- add a new java.net user 'autoresponder_ja_jp', and connect this to
+  kk122374-javanet-autoresponder-ja-jp@kohsuke.sfbay.sun.com
+  notice that the e-mail address has '-', not '_'
+
+- tell Kohsuke so that he can handle the java.net registration e-mail
+  (this needs to be done manually)

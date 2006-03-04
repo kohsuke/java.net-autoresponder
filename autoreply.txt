@@ -1,0 +1,49 @@
+
+To avoid spams, this list is configured to require a subscription
+before posting a message. Please follow the instructions below:
+
+1. To subscribe to the list, send a blank message to:
+     ${listName}-subscribe@${projectName}.dev.java.net
+   
+   Or, if you prefer digest subscriptions, send a blank message to:
+     ${listName}-digest-subscribe@${projectName}.dev.java.net
+
+2. You will receive a confirmation message for you subscription
+   request in a few minutes. Please confirm your subscription by
+   replying to the message.
+
+3. Please resubmit your message.
+
+
+
+If you are using multiple e-mail addresses, please make sure that
+you post messages from the exact same e-mail account that you
+subscribed to the list. Otherwise your message will be rejected.
+The 'Original-Recipient' header of e-mails delivered from this list
+shows the e-mail address under which you are subscribed.
+
+
+Here is some additional information you may find useful:
+
+- To unsubscribe from this mailing list, write an empty e-mail to:
+  ${listName}-unsubscribe@${projectName}.dev.java.net
+
+- The entire archive is available at:
+  https://${projectName}.dev.java.net/servlets/SummarizeList?listName=${listName}
+
+- You can search the archive at:
+  https://${projectName}.dev.java.net/servlets/SearchList?listName=${listName}&by=date
+
+- If you have java.net account, all those operations are available
+  through the web interface. Go to https://www.dev.java.net/servlets/Join
+  to create an account, and then go to
+  https://${projectName}.dev.java.net/servlets/ProjectMailingListList
+
+- For more list commands, send a blank e-mail to
+  ${listName}-help@${projectName}.dev.java.net
+
+- The list is run by ezmlm.
+
+
+If you continue to experience posting problems, please
+contact the project owner at "owner at ${projectName} dot dev dot java dot net"
