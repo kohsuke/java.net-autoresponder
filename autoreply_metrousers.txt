@@ -1,0 +1,4 @@
+'users@${projectName}.dev.java.net' has moved to 'users@metro.dev.java.net',
+so please resubmit your message to the new alias.
+
+We apologies for the inconvenience.
